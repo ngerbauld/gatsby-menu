@@ -1,0 +1,46 @@
+.footer {
+  margin-top: 2rem;
+  font-size: .8rem;
+}
+
+.footer-list {
+  display: flex;
+  list-style-type: none;
+  margin: 0;
+  padding-bottom: 0.4rem;
+}
+
+.footer-item {
+  margin-right: 1.3rem;
+  color: #111111;
+}
+
+.footer-item:hover {
+  color: #999999;
+  text-decoration: none;
+}
+
+.details {
+  p {
+    margin-bottom: 0;
+  }
+}
+
+.info {
+  margin-bottom: 1.3rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+
+}
+
+.box {
+  display: flex;
+  padding-left: 2.5rem;
+  border-top: 0.5px solid #F2F2F2;
+  margin-top: 2rem;
+}
+
+.lang {
+  font-size: .7rem;
+}

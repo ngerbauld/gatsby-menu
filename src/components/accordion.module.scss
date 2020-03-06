@@ -1,0 +1,22 @@
+.card {
+  background: white;
+}
+
+.header {
+  width: 100%;
+  border-bottom: none;
+  background: white;
+}
+
+.box {
+  display: flex;
+  justify-content: space-between;
+}
+
+.content {
+  margin-left: 1rem;
+  font-weight: 200;
+  color: #111111;
+  line-height: 2rem;
+}
+

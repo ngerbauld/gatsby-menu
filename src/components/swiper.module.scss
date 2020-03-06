@@ -1,0 +1,22 @@
+// .layout {
+//   height: 200px;
+//   max-height: 200px;
+// }
+
+.container {
+  position: relative;
+  color: white;
+
+  img {
+  width: 100%;
+  box-shadow: 0 0 15px rgba(0,0,0,0.2);
+  }
+}
+
+.title {
+  color: white;
+  position: absolute;
+  top: 80%;
+  left: 30%;
+  transform: translate(-50%, -50%);
+}

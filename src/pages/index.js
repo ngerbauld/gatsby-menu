@@ -1,3 +1,10 @@
 import React from "react"
+import 'bootstrap/dist/css/bootstrap.min.css';
+import Layout from '../components/layout'
 
-export default () => <div>Hello world!</div>
+const IndexPage = () => {
+  return (
+    <Layout />
+    )
+}
+export default IndexPage
